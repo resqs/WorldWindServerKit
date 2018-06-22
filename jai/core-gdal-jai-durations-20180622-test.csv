@@ -1,0 +1,17 @@
+uri;count;total;min;average;max;standarddeviation;persecond;errors
+"HTTP /geoserver/ows?service=wms&version=1.1.1&request=GetCapabilities";70;14826;17;211;5293;682;2;0
+"HTTP /geoserver/gwc/service/tms/1.0.0";69;5176;10;75;1226;142;2;0
+"HTTP /geoserver/ows?service=wps&version=1.0.0&request=GetCapabilities";69;144876;865;2099;4726;493;2;0
+"HTTP /geoserver/ows?service=wfs&version=1.0.0&request=GetCapabilities";69;6835;13;99;2107;246;2;0
+"HTTP /geoserver/ows?service=WCS&version=1.1.0&request=GetCapabilities";69;5584;24;80;1039;120;2;0
+"HTTP /geoserver/ows?service=wfs&version=1.1.0&request=GetCapabilities";69;7207;13;104;2094;243;2;0
+"HTTP /geoserver/ows?service=WCS&version=1.1&request=GetCapabilities";69;5132;19;74;836;96;2;0
+"HTTP /geoserver/gwc/service/wmts?REQUEST=GetCapabilities";69;6202;18;89;1423;165;2;0
+"HTTP /geoserver/ows?service=wms&version=1.3.0&request=GetCapabilities";70;15254;18;217;5193;668;2;0
+"HTTP /geoserver/web/";70;35898;210;512;5358;653;2;0
+"HTTP /geoserver/ows?service=wfs&version=2.0.0&request=GetCapabilities";69;8859;20;128;2053;236;2;0
+"HTTP /geoserver/gwc/service/wms?request=GetCapabilities&version=1.1.1&tiled=true";69;3910;11;56;456;56;2;0
+"HTTP /geoserver/ows?service=WCS&version=1.0.0&request=GetCapabilities";69;25810;14;374;7895;1184;2;0
+"HTTP /geoserver/ows?service=WCS&version=1.1.1&request=GetCapabilities";69;5259;15;76;955;110;2;0
+"HTTP /geoserver/www/explorer/index.html";70;3681;10;52;419;61;2;0
+"HTTP /geoserver/index.html";70;3053;8;43;548;64;2;0
